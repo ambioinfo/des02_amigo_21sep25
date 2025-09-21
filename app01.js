@@ -1,4 +1,4 @@
-//El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema. basado en https://github.com/AlfredoJC/01-amigoSecreto/blob/main/app.js
+// El principal objetivo de este desafío es fortalecer tus habilidades en lógica de programación. Aquí deberás desarrollar la lógica para resolver el problema. basado en https://github.com/AlfredoJC/01-amigoSecreto/blob/main/app.js
 let listaAmigos =[];
 
 function agregarAmigo() {
